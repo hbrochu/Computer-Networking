@@ -1,0 +1,5 @@
+import urllib2*
+
+def Main():
+    url = urllib2.urlopen(url[http://www.wunderground.com/weather-forecast/US/VT/Burlington.html])
+    
